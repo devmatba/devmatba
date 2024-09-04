@@ -14,5 +14,5 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23E67F22.svg?style=for-the-badge&logo=java&logoColor=white"/>
     
-     ![Snake animation](https://github.com/devmatva/devmatba/blob/output/github-contribution-grid-snake.svg)
+
 </div>
