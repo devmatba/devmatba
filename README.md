@@ -1,15 +1,10 @@
-## Olá, eu sou o Matheus Barbosa 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=devmatba&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-## My GitHub Stats
+### Olá, meu nome é Matheus Barbosa!
 
-<div class="stats-container">
-  <a href="https://github.com/devmatba/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=devmatba&theme=radical" />
-  </a>
-      <a href="https://github.com/devmatba/convoychat">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmatba&layout=compact&theme=radical&langs_count=8&card_width=450" />
-  </a>
-</div>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Matheus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Atualmente estou procurando estágio<br/> Estou começando na area de desenvolvimento</p>
 
 ## Technologies I Use
 
