@@ -6,12 +6,12 @@
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=devmatba&theme=radical" />
 </a>
       
-<a href="https://github.com/arafaellacruz/convoychat">
+<a href="https://github.com/devmatba/convoychat">
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmatba&layout=compact&theme=radical&langs_count=8&card_width=450" />
 </a>
 </div>
 
-## 🛠️ Technologies
+## 🛠️ Technologies:
  
 <div align="center" width="200">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,4 +22,3 @@
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=200%)
