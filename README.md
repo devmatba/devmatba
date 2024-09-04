@@ -7,7 +7,7 @@
 </a>
       
 <a href="https://github.com/devmatba/convoychat">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmatba&layout=compact&theme=radical&langs_count=8&card_width=450" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmatba&layout=compact&theme=radical&langs_count=8&card_width=450" />
 </a>
 </div>
 
