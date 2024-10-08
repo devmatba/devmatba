@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Cursando Banco de Dados na FATEC - São José dos Campos<br>🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvedores.<br>🛹 Gosto de dar um role de skate.<br>🐶 Curiosidade: tenho um beagle chamado Ace também conhecido como papa tudo.</p>
+<p align="left">🎓 Cursando Banco de Dados na FATEC - São José dos Campos<br>🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvedores.<br>🛹 Gosto de dar um role de skate.<br>🐶 Curiosidade: tenho um beagle chamado Ace também conhecido como destruidor de caminhas.</p>
 
 ###
 
