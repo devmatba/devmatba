@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Desenvolvedor Back-End entusiasta de tecnologia e inovação, usando da criatividade para soluções eficientes.</h3>
+<h3 align="left">Desenvolvedor Full-Stack entusiasta de tecnologia e inovação, usando da criatividade para soluções eficientes.</h3>
 
 ###
 
